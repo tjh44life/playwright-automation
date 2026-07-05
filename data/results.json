@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Playwright MCP",
+    "link": "/docs/getting-started-mcp"
+  },
+  {
+    "title": "PlaywrightAssertions",
+    "link": "/docs/api/class-playwrightassertions"
+  },
+  {
+    "title": "Playwright enables reliable web automation for testing, scripting, and AI agents.",
+    "link": "/"
+  },
+  {
+    "title": "Playwright Training​\nWelcome",
+    "link": "/community/welcome#training"
+  },
+  {
+    "title": "Playwright MCP",
+    "link": "/mcp/introduction"
+  },
+  {
+    "title": "Playwright MCP vs Playwright CLI​\nPlaywright MCP",
+    "link": "/mcp/introduction#playwright-mcp-vs-playwright-cli"
+  },
+  {
+    "title": "Playwright Test Agents",
+    "link": "/docs/test-agents"
+  },
+  {
+    "title": "Playwright Test",
+    "link": "/docs/api/class-test"
+  },
+  {
+    "title": "Playwright Library",
+    "link": "/docs/api/class-playwright"
+  },
+  {
+    "title": "Playwright CLI",
+    "link": "/agent-cli/introduction"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Testing documentation",
+    "link": "https://playwright.dev/docs/intro"
+  },
+  {
+    "title": "Test generator",
+    "link": "https://playwright.devdocs/codegen"
+  }
+]
